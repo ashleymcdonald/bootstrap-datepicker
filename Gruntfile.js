@@ -14,6 +14,7 @@ module.exports = function(grunt){
             ' *',
             ' * Copyright 2012 Stefan Petre',
             ' * Improvements by Andrew Rowls',
+            ' * Improvements by Ashley McDonald',
             ' * Licensed under the Apache License v2.0 (http://www.apache.org/licenses/LICENSE-2.0)',
             ' */'
         ].join('\n'),
